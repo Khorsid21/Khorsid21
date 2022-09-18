@@ -1,1 +1,3 @@
-*.bak
+*.file_extension
+
+folder/*.file_extension
